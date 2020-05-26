@@ -20,6 +20,5 @@
     <script src="../application/libraries/plugin/datatables.min.js"></script><!--datatables-->
 	<script src="../application/libraries/plugin/bootstrap/js/bootstrap.min.js"></script><!--bootStrap-->
 	<!-- <script src="../application/libraries/plugin/bootstrap/js/popper.min.js"></script> --><!--bootStrap-->
-	
-	</style>
+
 </head>
